@@ -1,0 +1,100 @@
+body {
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+.me {
+	text-align: right;
+}
+
+.name {color:red;
+	text-align: center;}
+
+#time {
+	color:black;
+}
+
+#back, #bot {
+	margin-top: 30px;
+}
+
+.minute {
+	color:grey;
+	text-align:left;
+}
+
+.user { color:green; }
+
+.mee,.jigss{
+	font-size: 15px;
+	font-weight: 600;
+}
+ 
+.jigss {
+	color:red;
+}
+
+
+
+.me {
+	margin-left: 250px;
+	text-align:left;
+}
+
+.jigs {
+	margin-right: 350px;
+	text-align:right;
+	padding-left: 3px;
+}
+
+input {
+	width: 80%;
+	height: 30px;
+	border:none;
+	margin-left : -80px;
+}
+
+.pic{
+	width:50px;
+	height:50px;
+}
+
+#smile {
+	margin-left:15px;
+}
+
+.mee {
+	color:black;
+}
+
+.top {
+	margin-bottom: -20px;
+}
+
+.right{
+	text-align:right;
+	border-right: 3px solid black;
+	padding-right: 10px;
+}
+
+
+.left{
+	text-align:left;
+	padding-left: 10px;
+	border-left: 3px solid red;
+}
+
+.minute{
+	border:none;
+}
+
+hr {
+	margin-top: 2px;
+}
+
+.fixed {
+	position: fixed;
+	
+    bottom: 0;
+    right: 0;
+}
